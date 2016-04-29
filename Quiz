@@ -1,3 +1,9 @@
 Explain what inheritance is.
 
+Inheritance in Java works with classes. When a new class is based on another one it is inheriting it. The based on class is callled the 
+super class. The new class inherits everything from the super class and all of the methods can be used with the new class.
+
 Explain what polymorphism is.
+Polymorphism is when an class which inherits another has the same method. This method then uses @override to be used instead of the original one.
+By this way you have a base method which then gets changed accordingly to the inheriting class.
+
